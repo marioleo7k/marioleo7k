@@ -22,7 +22,7 @@ Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atua
         />
     </a>
     <!-- Badge para LinkedIn -->
-    <a href="https://www.linkedin.com/in/marioleonardo7k/" target="_blank">
+    <a href="https://www.linkedin.com/in/marioleo7k/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Visite meu perfil no LinkedIn" 
