@@ -30,16 +30,6 @@ Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atua
 <!-- Adicione os ícones das tecnologias que você conhece -->
 <!-- Cada ícone tem propriedades como alinhamento, tamanho, e fonte de origem -->
 
-<!-- Ícone do Git -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 <!-- Ícone do Python -->
 <img 
     align="left" 
@@ -48,16 +38,6 @@ Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atua
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<!-- Ícone do SQL -->
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 
 <!-- Força quebra de linha para evitar sobreposição de ícones -->
