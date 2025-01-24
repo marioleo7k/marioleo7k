@@ -63,6 +63,6 @@ Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atua
     align="left" 
     alt="Top Tecnologias" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioleo7k&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioleo7k&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
