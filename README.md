@@ -48,21 +48,25 @@ Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atua
 
 ## 📊 Estatísticas
 
-<p>
-  <!-- Estatísticas do GitHub: Commits, Issues, etc. -->
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marioleo7k&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <!-- Estatísticas do GitHub: Commits, Issues, etc. -->
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=marioleo7k&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <!-- Tecnologias mais usadas -->
+      <img 
+        alt="Top Tecnologias" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioleo7k&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Tecnologias mais usadas -->
-  <img 
-    align="left" 
-    alt="Top Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioleo7k&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-  />
-</p>
