@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Mario Leonardo da Silva
 
-**`Estagiário em Análise de Dados para Supply Chain`**
+**`Analista de Dados Jr`**
 
 Me chamo Mario Leonardo da Silva, tenho 21 anos e sou da grande São Paulo. Atualmente, estou cursando Engenharia de Computação na UAM. Sou apaixonado por tecnologia e gosto de aprender cada vez mais, desde Arduino como hobbie até programação voltada para Dados.
 
